@@ -23,7 +23,6 @@
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
                 ?>
-		<p>Keat Loon</p>
             </div>
         </div>
 
